@@ -8,3 +8,18 @@ wheels/
 
 # Virtual environments
 .venv
+env/
+venv/
+
+.vscode/
+.idea/
+*.log
+.DS_Store
+*.sqlite3
+*.db
+*.env
+.env.*
+
+.ipynb_checkpoints
+
+archive/
